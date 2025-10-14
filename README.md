@@ -20,4 +20,4 @@ I'm always open to collaborate on projects or discuss new technologies. Feel fre
 
 Email: thanh-huy.nguyen.1@ens.etsmtl.ca 💌\
 [LinkedIn](https://www.linkedin.com/in/thanh-huy-nguyen-703606220/)💼\
-[Personal Website](https://myportfolio-five-rho.vercel.app/) 🌍
+[Personal Website](https://thanh-huy.vercel.app/) 🌍
