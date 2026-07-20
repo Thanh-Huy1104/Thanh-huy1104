@@ -1,63 +1,21 @@
-# Hello there 👋
+# Thanh-Huy Nguyen
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+Software engineer in Montréal. I build agentic AI systems and production ML pipelines — with a bias for governance, observability, and empirical measurement over vibes.
 
-class SoftwareEngineer:
+Currently finishing my Software Engineering B.Eng. at ÉTS Montréal while working on enterprise AI engagements.
 
-    def __init__(self):
-        self.name = "Thanh-Huy Nguyen"
-        self.role = "Software Engineering Student"
-        self.school = "École de technologie supérieure (ÉTS), Montréal"
-        self.focus = [
-            "Full-Stack Development",
-            "Distributed Systems",
-            "AI / ML Systems",
-            "LLM Orchestration"
-        ]
+## Featured work
 
-    def say_hi(self):
-        print("Thanks for stopping by — feel free to explore my projects.")
+- **[orgos](https://github.com/Thanh-Huy1104/orgos)** — Async multi-agent Scrum framework that ships code. Ships a `spawn/` governance layer (permission tiers, budget enforcement, audit trails) and an empirical Scrum-vs-waterfall comparison harness. Python, asyncio, CrewAI, 387 tests.
+- **[home-credit-risk-system](https://github.com/Thanh-Huy1104/home-credit-risk-system)** — End-to-end credit default risk pipeline: DuckDB feature aggregation → XGBoost → SHAP explainability → FastAPI serving. Versioned model artifacts, pytest, batch inference.
+- **[TestosteroneAI-server](https://github.com/TestosteroneAI-repos/TestosteroneAI-server)** — LLM-integrated fitness backend (barcode/food analysis, custom scoring). Shipped iOS/Android app.
 
-me = SoftwareEngineer()
-me.say_hi()
-```
-## 🎓 About Me
+## Stack
 
-- Software Engineering (B.Eng.) student at **École de technologie supérieure (ÉTS)**  
-- Strong interest in **full-stack engineering**, **distributed architectures**, and **AI/ML systems**  
-- Focused on building **production-grade**, **scalable**, and **well-architected systems**  
-- Combining solid academic foundations with **hands-on engineering projects**
+Python · TypeScript · Go · Rust · FastAPI · NestJS · LangGraph · CrewAI · MCP · PostgreSQL · DuckDB · Kafka · Docker
 
----
+## Contact
 
-## 🔧 Technologies & Tools
-
-### Programming Languages
-
-- Python
-- TypeScript
-- Java
-- SQL
-- Go
-
-## 🧠 Areas of Interest
-
-- Full-Stack Web Applications  
-- Distributed & Event-Driven Systems  
-- AI Agents and LLM-Orchestrated Workflows  
-- Retrieval-Augmented Generation (RAG)  
-- Software Architecture and Design Patterns  
-
----
-
-## 📫 Connect With Me
-
-- **Email:** thanh-huy.nguyen.1@ens.etsmtl.ca  
-- **LinkedIn:** https://www.linkedin.com/in/thanh-huy-nguyen-703606220/  
-- **Website:** https://thanh-huy.vercel.app  
-
----
-
-Thanks for visiting — feel free to explore, fork, or reach out.
+- Email: thanh-huy.nguyen.1@ens.etsmtl.ca
+- LinkedIn: [thanh-huy-nguyen-703606220](https://www.linkedin.com/in/thanh-huy-nguyen-703606220/)
+- Website: [thanh-huy.vercel.app](https://thanh-huy.vercel.app)
